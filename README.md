@@ -1,4 +1,4 @@
-# I'm working on this profile (12.02.2025), but I have to go to the gym, so I'll finish it when I get back or tomorrow.
+# I'm working on this profile now (12.02.2025), but I have to go to🏃‍♀️‍➡️ the gym🏋️‍♀️, so I'll finish it when I get back🏃‍♀️ (or tomorrow🤡).
 **I’ve been programming since 2018 🏄**
 
 ---
@@ -17,7 +17,7 @@
     Twoja przeglądarka nie wspiera elementu video.
   </video>
   <h3>Alternative for Inverse Kinematic system</h3>
-  <p>Krótki, zwięzły opis Projektu 1, podkreślający jego najciekawsze cechy.</p>
+  <p>here I will add a video🎞️</p>
 </div>
 
 <div style="border: 1px solid #eaeaea; border-radius: 8px; padding: 16px; margin-bottom: 20px;">
@@ -26,7 +26,7 @@
     Twoja przeglądarka nie wspiera elementu video.
   </video>
   <h3>Blender Animation Setup</h3>
-  <p>Krótki, zwięzły opis Projektu 2, podkreślający jego najważniejsze aspekty.</p>
+  <p>another video</p>
 </div>
 
 <div style="border: 1px solid #eaeaea; border-radius: 8px; padding: 16px; margin-bottom: 20px;">
@@ -35,7 +35,7 @@
     Twoja przeglądarka nie wspiera elementu video.
   </video>
   <h3>Windows simple panel</h3>
-  <p>Krótki, zwięzły opis Projektu 3, który wyróżnia go spośród innych.</p>
+  <p>video section!!!</p>
 </div>
 
 ---
