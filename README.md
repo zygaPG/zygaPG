@@ -1,5 +1,5 @@
-# MOJ SUPER PROFIL GITHUB
-**I’ve been programming since 2018 😎**
+# I'm working on this profile (12.02.2025), but I have to go to the gym, so I'll finish it when I get back or tomorrow.
+**I’ve been programming since 2018 🏄**
 
 ---
 
