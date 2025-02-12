@@ -1,4 +1,4 @@
-# I'm working on this profile now (12.02.2025), but I have to go to🏃‍♀️‍➡️ the gym🏋️‍♀️, so I'll finish it when I get back🏃‍♀️ (or tomorrow🤡).
+# I'm working on this profile now (12.02.2025), but I have to go🏃‍♀️‍➡️ to the gym🏋️‍♀️, so I'll finish it when I get back🏃‍♀️ (or tomorrow🤡).
 **I’ve been programming since 2018 🏄**
 
 ---
