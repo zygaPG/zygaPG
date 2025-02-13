@@ -1,5 +1,5 @@
-# I'm working on this profile now (12.02.2025), but I have to go🏃‍♀️‍➡️ to the gym🏋️‍♀️, so I'll finish it when I get back🏃‍♀️ (or tomorrow🤡).
-**I’ve been programming since 2018 🏄**
+# Hey, this profile doesn’t have any amazing projects—just a few experiments, tests, and curiosities. As you know, the biggest work happens on the job and isn’t in public repos 🏄
+
 
 ---
 
@@ -15,7 +15,7 @@
 
 https://github.com/user-attachments/assets/59a24206-2fa4-41da-b289-b50a193cc65a
 
-#### Simple IK is my alternative to popular Inverse Kinematics systems, designed specifically for seamlessly overriding animations with minimal interference. This makes it a great choice for anyone looking to add Inverse Kinematics to standard animations effortlessly.
+#### Slim IK is my alternative to popular Inverse Kinematics systems, designed specifically for seamlessly overriding animations with minimal interference. This makes it a great choice for anyone looking to add Inverse Kinematics to standard animations effortlessly.
 https://github.com/zygaPG/Slim_InverseKinematic
 ---
 
