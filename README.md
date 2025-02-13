@@ -10,13 +10,10 @@
 
 ## 🧩🤯
 
-https://github.com/user-attachments/assets/59a24206-2fa4-41da-b289-b50a193cc65a
+
 
 <div style="border: 1px solid #eaeaea; border-radius: 8px; padding: 16px; margin-bottom: 20px;">
-  <video controls width="100%">
-    <source src="assets/project2.mp4" type="video/mp4">
-    Twoja przeglądarka nie wspiera elementu video.
-  </video>
+  https://github.com/user-attachments/assets/59a24206-2fa4-41da-b289-b50a193cc65a
   <h3>Blender Animation Setup</h3>
   <p>another video</p>
 </div>
