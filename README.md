@@ -10,15 +10,7 @@
 
 ## 🧩🤯
 
-<div style="border: 1px solid #eaeaea; border-radius: 8px; padding: 16px; margin-bottom: 20px;">
-  <!-- Miejsce na osadzone video – podmień ścieżkę do pliku video -->
-  <video controls width="100%">
-    <source src="assets/vid.mov" type="video/mp4">
-    Twoja przeglądarka nie wspiera elementu video.
-  </video>
-  <h3>Alternative for Inverse Kinematic system</h3>
-  <p>here I will add a video🎞️</p>
-</div>
+https://github.com/user-attachments/assets/59a24206-2fa4-41da-b289-b50a193cc65a
 
 <div style="border: 1px solid #eaeaea; border-radius: 8px; padding: 16px; margin-bottom: 20px;">
   <video controls width="100%">
