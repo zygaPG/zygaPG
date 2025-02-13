@@ -13,7 +13,7 @@
 <div style="border: 1px solid #eaeaea; border-radius: 8px; padding: 16px; margin-bottom: 20px;">
   <!-- Miejsce na osadzone video – podmień ścieżkę do pliku video -->
   <video controls width="100%">
-    <source src="assets/project1.mp4" type="video/mp4">
+    <source src="assets/simpleIK.mov" type="video/mov">
     Twoja przeglądarka nie wspiera elementu video.
   </video>
   <h3>Alternative for Inverse Kinematic system</h3>
