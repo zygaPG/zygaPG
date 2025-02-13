@@ -20,5 +20,5 @@ https://github.com/zygaPG/Slim_InverseKinematic
 ---
 
 ### My no public project "Custom Windows Taskbar"
-https://github.com/user-attachments/assets/3677ab48-71cf-4900-92a2-22ac6e51ef29
+
 #### Is a custom taskbar for Windows 11 with some features
