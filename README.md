@@ -13,7 +13,7 @@
 
 ### Alternative solution for Inverse Kinematic
 
-https://github.com/user-attachments/assets/59a24206-2fa4-41da-b289-b50a193cc65a
+https://github.com/user-attachments/assets/1a3287ef-f72b-4c8b-9753-69680b730d40
 
 #### Slim IK is my alternative to popular Inverse Kinematics systems, designed specifically for seamlessly overriding animations with minimal interference. This makes it a great choice for anyone looking to add Inverse Kinematics to standard animations effortlessly.
 https://github.com/zygaPG/Slim_InverseKinematic
