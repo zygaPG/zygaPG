@@ -1,5 +1,5 @@
-# Hey, this profile doesn’t have any amazing projects -just a few experiments, tests, and curiosities. 
-**As you know, the biggest work happens on the job and isn’t in public repos🏄**
+# Hey, this profile is.... 
+**As u know🏄**
 
 ---
 
